@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@600;800&family=Merriweather&family=Oswald:wght@700&family=Poppins:wght@400;500;700&family=Roboto:wght@400;700&family=Young+Serif&display=swap');
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: bisque;
+}
